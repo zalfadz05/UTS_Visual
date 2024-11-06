@@ -327,4 +327,4 @@ private void tabel_biodataMouseClicked(java.awt.event.MouseEvent evt) {
 
 # Laporan
 
-[<img src=https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Symbol.png width="120px">](https://drive.google.com/file/d/1hTAAwBLtFDVKPn-hUObMpiHS9GC636oj/view?usp=sharing)
+[<img src=https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Symbol.png width="120px">](https://drive.google.com/file/d/1N9UXLYiUeVZ21ATyJ4WNEObTEnwff9cN/view?usp=sharing)
